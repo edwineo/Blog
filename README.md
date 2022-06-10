@@ -4,8 +4,8 @@
 
 1. [原型与原型链](https://github.com/aboutcroon/Blog/issues/2)
 2. [继承](https://github.com/aboutcroon/Blog/issues/1)
-3. [定时器工作原理](https://github.com/aboutcroon/Blog/issues/13)
-4. [Event Loop](https://github.com/aboutcroon/Blog/issues/4)
+3. [定时器工作机制](https://github.com/aboutcroon/Blog/issues/13)
+4. [Event Loop](https://github.com/aboutcroon/Blog/issues/14)
 
 ## 计算机网络
 1. [浏览器缓存(HTTP缓存)](https://github.com/aboutcroon/Blog/issues/12)
